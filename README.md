@@ -3,7 +3,7 @@
 * * *
 **About me: **
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning JS, React and Tailwind
+- 🌱 I’m currently learning JS and React
 - 😄 Pronouns: She Her
 - 📫 How to reach me?
 <div> 
